@@ -16,4 +16,11 @@ For compile use ```make``` at the project directory and for run ```./fdf [map_na
 |Move up|<kbd>Arrow Up</kbd>|
 |Move down|<kbd>Arrow Down</kbd>|
 |Move left|<kbd>Arrow Left</kbd>|
-|Move right|<kbd>Arrow Right</kbd>||
+|Move right|<kbd>Arrow Right</kbd>|
+|Zoom|<kbd>+</kbd>/<kbd>—</kbd>|
+|Rotate X|<kbd>Q</kbd>/<kbd>A</kbd>|
+|Rotate Y|<kbd>W</kbd>/<kbd>S</kbd>|
+|Rotate Z|<kbd>E</kbd>/<kbd>D</kbd>|
+|Isometric Projection|<kbd>I</kbd>|
+|Paralel Projection|<kbd>P</kbd>|
+|Exit|<kbd>ESC</kbd>|
