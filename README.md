@@ -4,6 +4,7 @@ relief landscape linking various points (x, y, z) via segments, using __miniLibX
 ### Map View
 The coordinates of landscape are stored in a file passed as a parameter to program. Here is an example:
 ![mapView](https://i.imgur.com/Mgr0WoF.png)
+
 Each number corresponds to a point in space:
 * The horizontal position corresponds to its axis.
 * The vertical position corresponds to its ordinate.
