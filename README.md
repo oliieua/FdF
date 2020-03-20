@@ -4,4 +4,4 @@ relief landscape, using __miniLibX__ and __math__ libraries.
 ### Compile
 For compile use __make__ at the project directory:
 ![makeGif](https://media.giphy.com/media/j0dkL3KDUWslG0yEeI/source.gif)
-<kbd>shift</kbd> + <kbd>command</kbd> + <kbd>3</kbd>
+<kbd>UP</kbd>
