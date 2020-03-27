@@ -26,3 +26,5 @@ For compile use ```make``` at the project directory and for run ```./fdf [map_na
 |Isometric Projection|<kbd>I</kbd>|
 |Paralel Projection|<kbd>P</kbd>|
 |Exit|<kbd>ESC</kbd>|
+### Rotation in action
+![Rotation](https://media.giphy.com/media/iGpGaS3fCESZmlikOM/giphy.gif)
